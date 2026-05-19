@@ -1,0 +1,7 @@
+site_name: {{cookiecutter.service_name}}
+
+theme:
+  name: material
+
+nav:
+  - Home: docs/index.md
